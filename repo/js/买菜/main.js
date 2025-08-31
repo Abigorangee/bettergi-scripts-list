@@ -172,18 +172,15 @@ async function AutoBuy(npc) {
     setGameMetrics(2560, 1440, 1.5);
 
     log.info("┌───────────────────────────────────────────────────┐");
-    log.info(" 在设置中勾选禁用的NPC.")
     await sleep(400);
     log.info(" 调试器添加脚本后, 右键脚本->修改JS脚本自定义配置.")
     await sleep(400);
-    log.info(" 但是, BetterGI有Bug, 只能现实9个设置...")
+    log.info(" 在设置中，被勾选的NPC将会跳过购买。")
     await sleep(400);
-    log.info(" 要不, 你直接删掉不想要的NPC文件吧, 删除方法: ")
-    await sleep(400);
-    log.info(" JS脚本->打开目录->进入当前项目/assets/AutoPath文件夹")
+    log.info(" 请保留要购买的NPC不要勾选。")
     await sleep(400);
     log.info("└───────────────────────────────────────────────────┘")
-    await sleep(400);
+    await sleep(800);
 
 
     try {
