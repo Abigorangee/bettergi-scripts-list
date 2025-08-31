@@ -1,5 +1,10 @@
 [
     {
+        "name": "qingzi",
+        "type": "checkbox",
+        "label": "清子"
+    },
+	{
         "name": "dongsheng",
         "type": "checkbox",
         "label": "东升"
@@ -44,13 +49,18 @@
         "type": "checkbox",
         "label": "珀姆"
     },
+	{
+        "name": "hamawei",
+        "type": "checkbox",
+        "label": "哈马维"
+    },
     {
         "name": "buteluosi",
         "type": "checkbox",
         "label": "布特罗斯"
     },
     {
-        "name": "ahalai",
+        "name": "azhalai",
         "type": "checkbox",
         "label": "阿扎莱"
     },
