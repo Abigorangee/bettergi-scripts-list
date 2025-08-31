@@ -2,7 +2,7 @@
     {
         "name": "qingzi",
         "type": "checkbox",
-        "label": "清子"
+        "label": "勾选的NPC会跳过\n============\n\n清子"
     },
 	{
         "name": "dongsheng",
