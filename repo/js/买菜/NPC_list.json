@@ -1,5 +1,12 @@
 {
-    "dongsheng": {
+    "qingzi": {
+        "npc_name": "清子",
+        "location_name": "清子",
+        "item_count": 5,
+        "spik_count": 4,
+        "daytimeOnly": 0
+    },
+	"dongsheng": {
         "npc_name": "东升",
         "location_name": "东升",
         "item_count": 12,
