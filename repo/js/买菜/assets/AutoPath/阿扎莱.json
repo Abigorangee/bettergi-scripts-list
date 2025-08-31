@@ -48,7 +48,7 @@
       "id": 5,
       "x": 4100.736328125,
       "y": -1979.58837890625,
-      "type": "path",
+      "type": "target",
       "move_mode": "walk",
       "action": "",
       "action_params": ""
@@ -57,7 +57,7 @@
       "id": 6,
       "x": 4091.5751953125,
       "y": -1980.16015625,
-      "type": "path",
+      "type": "target",
       "move_mode": "walk",
       "action": "",
       "action_params": ""
